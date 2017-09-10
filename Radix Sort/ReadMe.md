@@ -1,6 +1,6 @@
 # Radix Sort
 
-Radix sort is a sorting algorithm that takes as input an array of integers and uses a sorting subroutine( that is often another efficient sorting algorith) to sort the integers by their radix, or rather their digit.  Counting Sort, and Bucket Sort are often times used as the subroutine for Radix Sort.
+Radix sort is a sorting algorithm that takes as input an array of integers and uses a sorting subroutine( that is often another efficient sorting algorithm) to sort the integers by their radix, or rather their digit.  Counting Sort, and Bucket Sort are often times used as the subroutine for Radix Sort.
 
 ## Example
 
